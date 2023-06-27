@@ -100,4 +100,7 @@ input:not(:focus):valid ~ .task-input{
         box-shadow: none;
         width: 100%;
     }
+     .list{
+        padding: 10px;
+    }
  }
